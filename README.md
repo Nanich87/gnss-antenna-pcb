@@ -10,6 +10,7 @@
 * Bluetooth HC-05
 * Battery Charging Module / TP4056
 * DC-DC Booster Power Supply Module / DM31-10W05S
+* Shell / Enclosure
 
 ### u-blox ZED-F9P
 
@@ -64,3 +65,7 @@
 ### DM31-10W05S
 
 ![DC-DC Booster Power Supply Module / DM31-10W05S](https://github.com/Nanich87/gnss-antenna-pcb/blob/main/DC-DC-Booster-Power-Supply-Module.jpg "DC-DC Booster Power Supply Module / DM31-10W05S")
+
+### Shell / Enclosure
+
+![AT101 GPS Shell](https://github.com/Nanich87/gnss-antenna-pcb/blob/main/AT101-GPS-Shell.webp "AT101 GPS Shell")
