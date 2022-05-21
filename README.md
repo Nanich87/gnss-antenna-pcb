@@ -53,6 +53,10 @@
 
 ![Raspberry Pi Pico](https://github.com/Nanich87/gnss-antenna-pcb/blob/main/Raspberry-Pi-Pico.jpeg "Raspberry Pi Pico")
 
+### HC-05
+
+![HC-05](https://github.com/Nanich87/gnss-antenna-pcb/blob/main/HC-05.jpeg "HC-05")
+
 ### TP4056
 
 ![Battery Charging Module / TP4056](https://github.com/Nanich87/gnss-antenna-pcb/blob/main/TP4056.jpg "Battery Charging Module / TP4056")
