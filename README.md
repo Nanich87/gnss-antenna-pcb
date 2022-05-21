@@ -11,6 +11,7 @@
 * Battery Charging Module / TP4056
 * DC-DC Booster Power Supply Module / DM31-10W05S
 * Shell / Enclosure
+* 3.7v LiPo Battery
 
 ### u-blox ZED-F9P
 
